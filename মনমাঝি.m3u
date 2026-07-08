@@ -3,19 +3,19 @@
 http://103.203.93.4/Tollywood%20(Kolkata)/2026/Projapati%202%202025%20Bengali%20Zee5%20WEB-DL%20H264%20AAC%20720p/Projapati%202%202025%20Bengali%20Zee5%20WEB-DL%20H264%20AAC%20720p.mkv
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
 http://103.151.60.162:2121/play/a013/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",somoi
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Somoy
 http://103.151.60.162:2121/play/a00z/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",united sports hindi
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Unites Sports HD (Hindi)
 http://103.151.60.162:2121/play/a0f8/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",btv 0000
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",United sports
 http://180.94.28.28:8097/Fifa-2026/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T sports 11111111
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T sports 1
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T sports
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T sports 2
 http://103.165.93.31:8095/tsports/video.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Somoi
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Somoy
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",btv
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
@@ -23,7 +23,7 @@ http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Somoi tv
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Z
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zeebangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",World Cup Sper sports 2
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
