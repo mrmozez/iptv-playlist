@@ -1,4 +1,5 @@
 #EXTM3U
+
 BANGLADESH
 #EXTINF:-1  tvg-logo="https://imgur.com/a/j3euk7s",BD | BTV
 http://103.151.60.162:2121/play/a013/index.m3u8
@@ -249,6 +250,7 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 COLORS NETWORK
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",COLORS BANGLA HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63526
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",COLORS BANGLA HD
@@ -278,8 +280,6 @@ SONY NETWORK
 http://119.156.228.231:9983/stream/channelid/148905550
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | SONY KAL
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony Yay
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_yay.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | SONY MAX 1
 http://103.180.212.191:3500/live/3418.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony WAH
@@ -296,6 +296,10 @@ https://stream.ottplus.bd/live/max_2_abr/index.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_MAX_HD.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | SONY MAX HD
 http://119.156.228.231:9983/stream/channelid/1052904367
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | SONY MAX HD
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | SONY MAX HD
+https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony Cine
 http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony One Hits Action
@@ -304,11 +308,12 @@ https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | The Movie Club
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+
+
+
 STAR NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Star Plus HD
 http://66.102.126.10:8000/play/a008/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Star Bharat
-http://fastshare1.com/live/25711345/late8airline/745202.ts
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Star Gold HD
 http://119.156.228.231:9983/stream/channelid/363433704
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Star gold 2
@@ -335,8 +340,6 @@ http://103.159.180.34:5001/live/1111.m3u8
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | SHEMAROO TV
-https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 ZEE NETWORK
@@ -350,8 +353,6 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108845
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | SNB CINEMA BANGLA
 http://103.182.83.246/hls/snbcinema.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Zee 24 Ghanta
-https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | ZEE ZEST HD
@@ -376,12 +377,18 @@ http://103.159.180.34:5001/live/1358.m3u8
 http://103.159.180.34:5001/live/413.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Zee Cinema HD
 http://103.159.180.34:5001/live/165.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Hindi Movies
+https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Zee Cinema HD
+https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | ZEE CAFE HD
 http://203.18.159.115/ZEECAFEHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | B4U MOVIES
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | B4U KADAK
 https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | And Pictures
+https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | GOLDMINES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | GOLDMINES MOVIES
@@ -400,6 +407,12 @@ http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=1438228&ex
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=1438227&extension=ts&play_token=uG4NtMZSxh
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Zee Aflam
 http://41.223.30.230/ZEEAFLAM/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Wam Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Mzalo Hindi Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+
+
 Movies English
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",HBO
 http://103.213.31.111/HBOHD/index.m3u8
