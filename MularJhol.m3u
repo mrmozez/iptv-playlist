@@ -111,6 +111,8 @@ http://103.175.73.12:8080/live/270/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Anmol Cinema 2
 http://103.175.73.12:8080/live/257/257_0.m3u8
 ZEE NETWORK
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Zee TV HD
+https://jmp2.uk/stvp-AT1400001YL
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | ZEE BANGLA SONAR
