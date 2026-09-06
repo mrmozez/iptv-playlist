@@ -34,6 +34,8 @@ http://66.102.126.10:8000/play/a014/index.m3u8
 http://202.70.146.135:8000/play/a06o/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& Pictures HD
 https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 SONY NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony International HD
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
@@ -81,7 +83,7 @@ https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Star Gold HD
 http://66.102.126.10:8000/play/a00f/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Star gold 2
-http://103.253.18.58:8000/play/a00r
+http://202.70.146.135:8000/play/a04q/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Star Gold 2 HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_2_HD.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Star gold romance
@@ -169,7 +171,7 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | GOLDMINES 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | GOLDMINES Bollywood
-http://103.175.73.12:8080/live/52/52_0.m3u8
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | CINEMANIA GOLD 4K
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=1438228&extension=ts&play_token=errEDbefNI
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | CINEMANIA 4K
