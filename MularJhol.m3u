@@ -16,8 +16,8 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 COLORS NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla Cinema
 http://live.balajibroadband.com:3500/live/1657.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla Cinema
-http://mysave23.com/live/PeH5kPWFfG/infamous7funny/271038.ts
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla HD
+http://103.165.93.31:8095/colorsBangla/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
 http://41.205.77.102/ZEE-CINEMA/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
@@ -25,24 +25,26 @@ http://66.102.126.10:8000/play/a076/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
 http://66.102.126.10:8000/play/a076/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Bollywood
-http://live.balajibroadband.com:3500/live/1763.m3u8
+http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
 http://41.205.77.102/ZEE-CINEMA/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Infinity HD
 http://66.102.126.10:8000/play/a014/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Tamil HD
-http://202.70.146.135:8000/play/a06o/index.m3u8
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& Pictures HD
 https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& Pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& Xpore HD
+http://66.102.126.10:8000/play/a028/index.m3u8
 SONY NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony International HD
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | SONY KAL
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | SONY MAX 1
-http://103.180.212.191:3500/live/3418.m3u8
+http://103.159.180.34:5001/live/3418.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony MAX 2
 https://stream.ottplus.bd/live/max_2_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony MAX
@@ -83,9 +85,9 @@ https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Star Gold HD
 http://66.102.126.10:8000/play/a00f/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Star gold 2
-http://202.70.146.135:8000/play/a04q/index.m3u8
+http://66.102.126.10:8000/play/a00g/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Star Gold 2 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_2_HD.m3u8
+http://66.102.126.10:8000/play/a077/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Star gold romance
 http://66.102.126.10:8000/play/a00r/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR | Star gold select
@@ -157,15 +159,15 @@ https://go.skym3u.top/pdu7.m3u?channel=aHR0cHM6Ly9kMWc4d2dqdXJ6OHZpYS5jbG91ZGZyb
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | ZEE CAFE HD
 http://203.18.159.115/ZEECAFEHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | B4U MOVIES
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | B4U MOVIES
 https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | B4U KADAK
 https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | And Pictures
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | & Pictures
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | GOLDMINES
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | GOLDMINES MOVIES
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | GOLDMINES 2
