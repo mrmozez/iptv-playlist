@@ -1,13 +1,4 @@
 #EXTM3U
-BENGALI MUSIC
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",IND BANGLA | DHOOM MUSIC
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108813
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",IND BANGLA | SANGEET BANGLA
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1458371
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",IND BANGLA | SANGEET BANGLA
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63393
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",IND BANGLA | Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
 INDIA HINDI MOVIE & ENTERTAINMENT
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
@@ -41,33 +32,34 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& Xplor HD
 http://66.102.126.10:8000/play/a028/index.m3u8
 SONY NETWORK
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony International HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony International HD
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | SONY MAX 1
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX 1
 http://103.159.180.34:5001/live/3418.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony MAX 2
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX 2
 https://stream.ottplus.bd/live/max_2_abr/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony MAX
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony MAX HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX HD
 http://live.balajibroadband.com:3500/live/476.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | SONY MAX HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX HD
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | SONY MAX HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX HD
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | SONY KAL
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony KAL
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony Cine
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Cine
 http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony WAH
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony WAH
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_wah.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony Pix HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Pix HD
 http://live.balajibroadband.com:3500/live/762.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | Sony One Hits Action
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony One Hits Action
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | The Movie Club
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY | The Movie Club
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",The Movie Club 2
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",CCTV 6 | Movie Club
 http://74.91.26.218:82/live/cctv6hd.m3u8
@@ -113,30 +105,30 @@ http://103.175.73.12:8080/live/270/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Anmol Cinema 2
 http://103.175.73.12:8080/live/257/257_0.m3u8
 ZEE NETWORK
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Zee TV HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee TV HD
 https://jmp2.uk/stvp-AT1400001YL
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Zee Cinema
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Zee Cinema HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinema HD
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | ZEE BANGLA SONAR
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | ZEE BANGLA SONAR
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE BANGLA SONAR
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | ZEE BANGLA SONAR
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE BANGLA SONAR
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | UNMOCHON TV
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",UNMOCHON TV
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | SNB CINEMA BANGLA
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SNB CINEMA BANGLA
 http://103.182.83.246/hls/snbcinema.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Zoom
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | ZEE ZEST HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE ZEST HD
 http://103.159.180.34:5001/live/2757.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | ZEE BANGLA
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE BANGLA
 http://103.159.180.34:5001/live/625.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | ZEE BANGLA HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE BANGLA HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/112571
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Zee Action
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96659
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE | Zee Classic
@@ -232,8 +224,6 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MBC tv
 http://93.184.10.248/MBCBollywood/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Awaaz India
-http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Music india
@@ -360,11 +350,11 @@ http://103.159.180.34:5001/live/250.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Movies| NH Bolly Flix
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", NH Bolly Flix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", MNX HD
 https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Party Universe Music
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Party Universe Music
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", AXN Movies HD
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
