@@ -18,6 +18,8 @@ COLORS NETWORK
 http://live.balajibroadband.com:3500/live/1657.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla HD
 http://103.165.93.31:8095/colorsBangla/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Super
+http://27.116.22.53:5001/live/785.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
 http://41.205.77.102/ZEE-CINEMA/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
@@ -79,19 +81,19 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Jolsha Movies
 https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold HD
-http://66.102.126.10:8000/play/a00f/index.m3u8
+http://202.70.146.135:8000/play/a02a/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold 2
 http://66.102.126.10:8000/play/a00g/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold 2 HD
-http://66.102.126.10:8000/play/a077/index.m3u8
+http://202.70.146.135:8000/play/a04q/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold Romance
 http://66.102.126.10:8000/play/a00r/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold Select
-http://103.253.18.58:8000/play/a02u
+http://202.70.146.135:8000/play/a068/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR UTSAV MOVIES
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_UTSAV_MOVIES.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR MOVIES HD
-http://66.102.126.10:8000/play/a021/index.m3u8
+http://202.70.146.135:8000/play/a06r/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR MOVIES HD
 https://go.skym3u.top/pdu7.m3u?channel=aHR0cDovLzY2LjEwMi4xMjYuMTA6ODAwMC9wbGF5L2EwMjEvaW5kZXgubTN1OA
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR MOVIES HD
@@ -204,7 +206,7 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TNT MOVIES
 http://190.14.10.19:16000/play/a02s/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MOVIES NOW HD
-http://180.94.28.28:8097//MOVIES-NOW/index.fmp4.m3u8
+http://202.70.146.135:8000/play/a057/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",AND FLIX HD
 http://203.18.159.115/ANDFLIXHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Action HD (720p)
