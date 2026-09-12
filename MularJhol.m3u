@@ -9,12 +9,14 @@ COLORS NETWORK
 http://live.balajibroadband.com:3500/live/1657.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla HD
 http://103.165.93.31:8095/colorsBangla/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors HD
+https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=f6e&id=kceh.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Super
 http://27.116.22.53:5001/live/785.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
 http://41.205.77.102/ZEE-CINEMA/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
-http://66.102.126.10:8000/play/a076/index.m3u8
+https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=f6e&id=kceh.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
 http://66.102.126.10:8000/play/a076/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Bollywood
@@ -22,12 +24,15 @@ http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
 http://41.205.77.102/ZEE-CINEMA/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Infinity HD
-http://66.102.126.10:8000/play/a014/index.m3u8
+https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=f6e&id=kceh.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Tamil HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
-
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& Pictures HD
+https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a0062524569206b363d09040a5a32711454.m3u8?t=5318&s=f6e&id=kceh.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& Xplor HD
-http://66.102.126.10:8000/play/a028/index.m3u8
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Pocket Film
+https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
 SONY NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony International HD
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/144.ts
@@ -66,6 +71,8 @@ http://stream.mcquack.net/364/index.m3u8
 STAR NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR JALSHA HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR JALSHA HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Jolsha Movies
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold HD
@@ -90,8 +97,8 @@ http://202.70.146.135:8000/play/a06r/index.m3u8
 http://66.102.126.10:8000/play/a020/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR Movies Thrills HD
 http://66.102.126.10:8000/play/a00c/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Maa Movies
-http://103.159.180.34:5001/live/1111.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Maa Movies HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",South Station Movie
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Shemaroo Bollywood
