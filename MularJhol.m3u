@@ -46,7 +46,7 @@ http://live.balajibroadband.com:3500/live/3418.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX 2
 https://tv5.genatuz070.workers.dev/cdn/live/sonymax_2/playlist.m3u8?hdnea=exp=1789311209~acl=/*~id=96848373685823678757045096493057~hmac=4bf24518a3f6a47293430f728bb4821c6fa1a62578fb3100a027cc8817350841
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX 2
-http://live.balajibroadband.com:3500/live/483.m3u8
+https://tv4.udiqipuw544.workers.dev/cdn/live/sonymax_2/playlist.m3u8?hdnea=exp=1789384874~acl=/*~id=99412634016684925950545639177741~hmac=a669a0c010cdec9c80617e6e367d551b53ffae6a97aba74f4b7cba56b837a385
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX HD
@@ -133,6 +133,8 @@ http://103.159.180.34:5001/live/2757.m3u8
 http://mag.max-cdn.com:80/play/live.php?mac=00:1B:79:51:0C:56&stream=908681&extension=ts&play_token=pznXLNEyPD
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE BANGLA HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98881.ts
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE Cafe
+https://tv8.akashgo.workers.dev/cdn/live/zee_cafe_hd/playlist.m3u8?hdnea=exp=1789385067~acl=/*~id=55224453206184315720569807229181~hmac=04ed8b5e262d672725d2d729e20d72adaed8c84ef459f9b28addd4a840e48d12
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Action
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96659
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Classic
@@ -161,6 +163,8 @@ https://tv5.genatuz070.workers.dev/cdn/live/zee_cafe_hd/playlist.m3u8?hdnea=exp=
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",B4U MOVIES
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",B4U MOVIES Apac
+https://tv8.akashgo.workers.dev/cdn/live/b4u_movies/playlist.m3u8?hdnea=exp=1789385067~acl=/*~id=13195603364811618155436228560047~hmac=1765ee0746826eec0cd39134abd01d5c931a60e5ab227aa5b5437afc624a2101
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",B4U KADAK
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",GOLDMINES
@@ -393,3 +397,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/131989
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MNX HD
 http://202.70.146.135:8000/play/a052/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Toffe Tv
+https://tv4.udiqipuw544.workers.dev/cdn/live/toffee_drama/playlist.m3u8?hdnea=exp=1789385067~acl=/*~id=28156924721522653461433544663388~hmac=700e67f2ab36cb92c2c01be998cf67b1972cf6fe560ca1a783d429a9f05c493e
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Toffe Movies
+https://tv8.akashgo.workers.dev/cdn/live/toffee_movie/playlist.m3u8?hdnea=exp=1789385067~acl=/*~id=37673190692093262388995410453279~hmac=49a64b77e3d5987c93123729c8de4f0e4a7406cc711e5d51c4be3a8d6e796d88
