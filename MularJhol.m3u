@@ -48,7 +48,7 @@ http://live.balajibroadband.com:3500/live/3418.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX 2
 https://tv5.genatuz070.workers.dev/cdn/live/sonymax_2/playlist.m3u8?hdnea=exp=1789311209~acl=/*~id=96848373685823678757045096493057~hmac=4bf24518a3f6a47293430f728bb4821c6fa1a62578fb3100a027cc8817350841
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX 2
-https://tv4.udiqipuw544.workers.dev/cdn/live/sonymax_2/playlist.m3u8?hdnea=exp=1789384874~acl=/*~id=99412634016684925950545639177741~hmac=a669a0c010cdec9c80617e6e367d551b53ffae6a97aba74f4b7cba56b837a385
+http://live.balajibroadband.com:3500/live/483.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX HD
@@ -114,6 +114,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b262
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Anmol Cinema
 http://103.175.73.12:8080/live/270/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Anmol Cinema 2
