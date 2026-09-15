@@ -16,7 +16,7 @@ https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Super
 http://27.116.22.53:5001/live/785.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
-http://41.205.77.102/ZEE-CINEMA/index.m3u8
+https://go.skym3u.dev/live/73b59/3b1f0d3d095a702e2d2936430313183e28080e130102013d535e56183004147700406f726b333a1b045d456b7751420c5d165d.m3u8?t=5318&s=464&id=ni7u.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=f6e&id=kceh.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
@@ -60,7 +60,7 @@ https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony KAL
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Cine
-http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony WAH
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_wah.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Pix HD
@@ -73,10 +73,10 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",CCTV 6 | Movie Club
 http://74.91.26.218:82/live/cctv6hd.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hindi Movies 3
-https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Blockbuster HD
 http://stream.mcquack.net/364/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NEW KMOVIES
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 STAR NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR JALSHA HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
@@ -159,8 +159,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinema HD
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hindi Movies
-https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE CAFE HD
 https://tv5.genatuz070.workers.dev/cdn/live/zee_cafe_hd/playlist.m3u8?hdnea=exp=1789311209~acl=/*~id=56933095729337280455060607280919~hmac=f684b60160daa4d4723d4415788f702e13a7b1b85cfe4f1682e49c076dd214d6
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",B4U MOVIES
@@ -243,8 +241,6 @@ http://103.159.180.34:5001/live/585.m3u8
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
 Documentary
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", France 24 News
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
@@ -403,7 +399,5 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/131989
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MNX HD
 http://202.70.146.135:8000/play/a052/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Toffe Tv
-https://tv4.udiqipuw544.workers.dev/cdn/live/toffee_drama/playlist.m3u8?hdnea=exp=1789385067~acl=/*~id=28156924721522653461433544663388~hmac=700e67f2ab36cb92c2c01be998cf67b1972cf6fe560ca1a783d429a9f05c493e
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Toffe Movies
-https://tv8.akashgo.workers.dev/cdn/live/toffee_movie/playlist.m3u8?hdnea=exp=1789385067~acl=/*~id=37673190692093262388995410453279~hmac=49a64b77e3d5987c93123729c8de4f0e4a7406cc711e5d51c4be3a8d6e796d88
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",G-Series
+https://go.skym3u.dev/live/73b59/3b1f0d3d404f706d3230371e535c15262c0003151a4d06305f1f55453619102840312d23293e7c1913131734314c1a500f524a325d5e5d1827185720000067.m3u8?t=5318&s=7cc&id=66da.m3u
