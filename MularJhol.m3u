@@ -82,6 +82,8 @@ STAR NETWORK
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR JALSHA HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bangla+ plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Jolsha Movies
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Jolsha Movies HD
@@ -240,7 +242,7 @@ http://103.159.180.34:5001/live/585.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9xm
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",YRF Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+https://go.skym3u.dev/live/73b59/3b1f0d3d404f706d273b3d40140546723213030540171629001e535b320c10634703702e2d31360c135d153225515d555f5148275b515d5b3a0a0a24525826302232261e081159272b00030c074c153353495e5f201f5720000067.m3u8?t=5318&s=7cc&id=66da.m3u
 Documentary
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", France 24 News
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
