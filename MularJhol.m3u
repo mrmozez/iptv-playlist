@@ -47,6 +47,7 @@ COLORS NETWORK
 http://mag.max-cdn.com:80/play/live.php?mac=00:1B:79:51:0C:56&stream=908654&extension=ts&play_token=1fUBa9a3vc
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla Cinema
 http://live.balajibroadband.com:3500/live/1657.m3u8
+https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c56405a6d7b4f5f51545a5c66031f4142210e18201c1637232a31360108165b6e765054515650516042425d503a071c705e1a3d2336303842071e182a310e02080d.m3u8?t=5318&s=d0d&id=epzs.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors HD
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=f6e&id=kceh.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Super
@@ -56,7 +57,7 @@ https://go.skym3u.dev/live/73b59/3b1f0d3d095a702e2d2936430313183e28080e130102013
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=f6e&id=kceh.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
-http://66.102.126.10:8000/play/a076/index.m3u8
+https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=d0d&id=epzs.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Bollywood
 http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
@@ -89,10 +90,12 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/144.ts
 http://live.balajibroadband.com:3500/live/3418.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX 2
 https://tv5.genatuz070.workers.dev/cdn/live/sonymax_2/playlist.m3u8?hdnea=exp=1789311209~acl=/*~id=96848373685823678757045096493057~hmac=4bf24518a3f6a47293430f728bb4821c6fa1a62578fb3100a027cc8817350841
+https://go.skym3u.dev/live/73b59/3b1f0d3d095a707374687d5c57455a6e744f5d52564c16305c495f572b5956245d113a3a6a326018594d00302904025c1a06162b.m3u8?t=5318&s=d0d&id=epzs.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX 2
 http://live.balajibroadband.com:3500/live/483.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+https://go.skym3u.dev/live/73b59/3b1f0d3d404f706d202d385b190344292a0f42061e0001311c5e57427c07103b565a32233c003b093e13162d6d0802050b1b4b3201450a.m3u8?t=5318&s=d0d&id=epzs.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX HD
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/151.ts
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX HD
@@ -433,6 +436,8 @@ https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8#skym3u.dev
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bangla+ plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8#skym3u.dev
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Bangla
+https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54435a69724f5d575c59576e00021d463f0a0062524539776b363d09040a5a327114545e060f16.m3u8?t=5318&s=d0d&id=epzs.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sananda TV
