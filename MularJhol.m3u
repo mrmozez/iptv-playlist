@@ -54,9 +54,13 @@ https://go.skym3u.dev/live/73b59/3b1f0d3d404f706d206e210e59441a28350255070f044b3
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a702e2d2936430313183e28080e130102013d535e56183004147700406f726b333a1b045d456b7751420c5d165d.m3u8?t=5318&s=464&id=ni7u.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
+https://go.skym3u.dev/live/73b59/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=eff&id=jy8b.m3u
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=f6e&id=kceh.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=d0d&id=epzs.m3u
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex UK
+https://go.skym3u.dev/live/73b59/3b1f0d3d404f706d206e210e59441a28350255070f044b3c5e5f475235191623475b31273070615b5145466c6d12010802591736415846532a081023560533273c2a380904045a2c2f08004e0d0b1031595c5b4527341b7c0a476772746f7d0052074c.m3u8?t=5318&s=eff&id=jy8b.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Bollywood
 http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
