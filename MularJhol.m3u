@@ -426,25 +426,25 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FTV HD
 http://27.116.22.53:5001/live/1598.m3u8#skym3u.dev
 BANGLA
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sangeet Bangla
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="𝐁𝐚𝐧𝐠𝐥𝐚" Sangeet Bangla
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Jhankar TV
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="𝐁𝐚𝐧𝐠𝐥𝐚" Jhankar TV
 https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8#skym3u.dev
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Enter TV
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="𝐁𝐚𝐧𝐠𝐥𝐚" Enter TV
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8#skym3u.dev
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bangla+ plus
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="𝐁𝐚𝐧𝐠𝐥𝐚" Bangla+ plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8#skym3u.dev
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Bangla
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="𝐁𝐚𝐧𝐠𝐥𝐚" Star Bangla
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54435a69724f5d575c59576e00021d463f0a0062524539776b363d09040a5a327114545e060f16.m3u8?t=5318&s=d0d&id=epzs.m3u
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SRK TV
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="𝐁𝐚𝐧𝐠𝐥𝐚" SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8#skym3u.dev
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sananda TV
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="𝐁𝐚𝐧𝐠𝐥𝐚" Sananda TV
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8#skym3u.dev
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SNB CINEMA BANGLA
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="𝐁𝐚𝐧𝐠𝐥𝐚" SNB CINEMA BANGLA
 http://103.182.83.246/hls/snbcinema.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",G-Series
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="𝐁𝐚𝐧𝐠𝐥𝐚" G-Series
 https://go.skym3u.dev/live/73b59/3b1f0d3d404f706d3230371e535c15262c0003151a4d06305f1f55453619102840312d23293e7c1913131734314c1a500f524a325d5e5d1827185720000067.m3u8?t=5318&s=7cc&id=66da.m3u
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PEACE TV BANGLA
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="𝐁𝐚𝐧𝐠𝐥𝐚" PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Azan Tv
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8#skym3u.dev
@@ -454,5 +454,5 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8#skym
 https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Saudi Sunnah
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8#skym3u.dev
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Thikana
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="𝐁𝐚𝐧𝐠𝐥𝐚" Thikana
 https://tv.kbhub.online/Bangladesh/Thikana.m3u8
