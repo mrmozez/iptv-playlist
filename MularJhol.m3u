@@ -188,7 +188,7 @@ https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8#
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Anmol Cinema
-http://103.175.73.12:8080/live/270/master.m3u8
+https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c56405a6d7b4f5f51545a5c66031f4142210e18201c1637232a31360108165b6e725058515f55536a06.m3u8?t=5318&s=fe4&id=zkfu.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Anmol Cinema 2
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 ZEE NETWORK
@@ -202,12 +202,10 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_72
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE ZEST HD
 http://107.167.16.138/zeezesthd/index.m3u8?token=test
-
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE Cafe
 https://tv8.akashgo.workers.dev/cdn/live/zee_cafe_hd/playlist.m3u8?hdnea=exp=1789385067~acl=/*~id=55224453206184315720569807229181~hmac=04ed8b5e262d672725d2d729e20d72adaed8c84ef459f9b28addd4a840e48d12
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE CAFE HD
 https://tv5.genatuz070.workers.dev/cdn/live/zee_cafe_hd/playlist.m3u8?hdnea=exp=1789311209~acl=/*~id=56933095729337280455060607280919~hmac=f684b60160daa4d4723d4415788f702e13a7b1b85cfe4f1682e49c076dd214d6
-
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Action
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96659
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Action
@@ -224,13 +222,12 @@ https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
 http://107.167.16.138/zeetalkies/index.m3u8?token=test
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinemalu
 http://27.116.22.53:5001/live/413.m3u8
-
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Biskope
+https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c56405a6d7b4f5f51545a5c66031f4142210e18201c1637232a31360108165b6e72555a555f55516f03.m3u8?t=5318&s=fe4&id=zkfu.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinema
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-
-
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",B4U MOVIES
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",B4U MOVIES
@@ -252,7 +249,7 @@ https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",GOLDMINES MOVIES
 https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",GOLDMINES 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
+https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c56405a6d7b4f5f51545a5c66031f4142210e18201c1637232a31360108165b6e725258565c5b5c6b.m3u8?t=5318&s=fe4&id=zkfu.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",GOLDMINES Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",GOLDMINES Action
