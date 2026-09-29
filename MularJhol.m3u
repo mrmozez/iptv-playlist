@@ -56,6 +56,8 @@ https://go.skym3u.dev/live/73b59/3b1f0d3d404f706d206e210e59441a28350255070f044b3
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a702e2d2936430313183e28080e130102013d535e56183004147700406f726b333a1b045d456b7751420c5d165d.m3u8?t=5318&s=464&id=ni7u.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
+http://41smartpro.xyz:80/live/bmg12mk788/UPBTUU4/1020166.ts
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=eff&id=jy8b.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=f6e&id=kceh.m3u
@@ -79,6 +81,10 @@ https://go.skym3u.dev/live/73b59/3b1f0d3d404f706d203e6b5b0c43072e320c5f0e5e4d063
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hindi Movie
+https://vods2.aynaott.com/hindimovies/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hindi Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 & NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& TV HD
 http://202.70.146.135:8000/play/a06c/index.m3u8
@@ -144,9 +150,6 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8#skym3u.dev
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Jolsha Movies
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Jolsha Movies HD
-http://mag.max-cdn.com:80/play/live.php?mac=00:1B:79:51:0C:56&stream=908656&extension=ts&play_token=BGLb2LINVg
-
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold HD
 http://202.70.146.135:8000/play/a02a/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold 2
@@ -157,6 +160,8 @@ http://202.70.146.135:8000/play/a04q/index.m3u8
 http://66.102.126.10:8000/play/a00r/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold Select HD
 http://202.70.146.135:8000/play/a068/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold Thrills
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/773735.ts
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR UTSAV MOVIES
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_UTSAV_MOVIES.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR MOVIES HD
