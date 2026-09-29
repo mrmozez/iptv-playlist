@@ -350,105 +350,105 @@ https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Paramount Movie Network
 http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
 Documentary
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", DOCU | France 24 News
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" France 24 News
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", DOCU | Travelxp HD Hindi
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" Travelxp HD Hindi
 http://103.159.180.34:5001/live/562.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | Discovery
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" Discovery
 http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | Travel XP HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" Travel XP HD
 http://103.159.180.34:5001/live/164.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | BBC EARTH
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" BBC EARTH
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | BBC EARTH GREECE
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" BBC EARTH GREECE
 http://185.102.171.218/BBCEarth/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | BRIT BOX
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" BRIT BOX
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | CCTV-Weapon & Technology
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" CCTV-Weapon & Technology
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | CGTN Documentary
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | China Travel
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" China Travel
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | CGTN Discovering China
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" CGTN Discovering China
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | DOCU Box
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" DOCU Box
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | DOCUMENTARY+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" DOCUMENTARY+
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | DOCUMENTARY+ International
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" DOCUMENTARY+ International
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | DOKUSAT
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" DOKUSAT
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | E PLANET TV
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" E PLANET TV
 https://eplhls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | History 2
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" History 2
 http://213.91.179.28:8000/play/a03r
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | Heros & Icon
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" Heros & Icon
 http://206.212.244.63/88/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | History
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" History
 http://177.52.24.163/HISTORY-HD/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | History HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" History HD
 http://82.78.243.219:45739/play/a01f/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | History
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" History
 http://206.212.244.63/91/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | History Hit
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" History Hit
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | IN Wild
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" IN Wild
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | KARBALA DOCUMENTARY
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" KARBALA DOCUMENTARY
 https://ktvlive.online/stream/hls/ch3.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | LOVE PETS
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" LOVE PETS
 https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | LOVE THE PLANET UK
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" LOVE THE PLANET UK
 https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | Discovery Bangla
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" Discovery Bangla
 http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | NAT GEO HD BENGALI
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" NAT GEO HD BENGALI
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63557
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | NAT GEO HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" NAT GEO HD
 http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | NATIONAL GEOGRAPHIC HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" NATIONAL GEOGRAPHIC HD
 http://213.91.179.28:8000/play/a0ct
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | NATIONAL GEOGRAPHIC
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" NATIONAL GEOGRAPHIC
 http://185.102.171.218/NatGeo/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | NATIONAL GEOGRAPHIC
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Documentary" NATIONAL GEOGRAPHIC
 http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | NAT GEO WILD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" NAT GEO WILD
 http://198.58.104.90:8989/natgeowild/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | LOVE NATURE
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" LOVE NATURE
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | RT DOCUMENTARY
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" RT DOCUMENTARY
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | NATURE TIME
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" NATURE TIME
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | REAL WILD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Documentary" REAL WILD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | Tera Mater Wild
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Documentary" Tera Mater Wild
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | THE NEST
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" THE NEST
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | TRUE CRIME
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Documentary" TRUE CRIME
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | Via Sat History
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" Via Sat History
 http://185.102.171.218/ViasatHistory/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | Via Sat Nature
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" Via Sat Nature
 http://185.102.171.218/ViasatNature/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | WILD EARTH
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" WILD EARTH
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | TBS
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" TBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | Travel XP
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" Travel XP
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | Wild TV
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | World War TV
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" World War TV
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | CMAC TV
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" CMAC TV
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | Animal Planet HD
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" Animal Planet HD
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DOCU | AccuWeather
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 OTHERS
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Pitaara
@@ -476,17 +476,17 @@ http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8#skym3u.dev
 http://103.182.83.246/hls/snbcinema.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="𝐁𝐚𝐧𝐠𝐥𝐚" G-Series
 https://go.skym3u.dev/live/73b59/3b1f0d3d404f706d3230371e535c15262c0003151a4d06305f1f55453619102840312d23293e7c1913131734314c1a500f524a325d5e5d1827185720000067.m3u8?t=5318&s=7cc&id=66da.m3u
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="𝐁𝐚𝐧𝐠𝐥𝐚" PEACE TV BANGLA
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Islamic" PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Azan Tv
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Islamic" Azan Tv
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8#skym3u.dev
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",AL QURAN LIVE
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Islamic" AL QURAN LIVE
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8#skym3u.dev
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Quran
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Islamic" Quran
 https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8#skym3u.dev
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Saudi Sunnah
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Islamic" Saudi Sunnah
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="𝐁𝐚𝐧𝐠𝐥𝐚" Thikana
 https://tv.kbhub.online/Bangladesh/Thikana.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="𝐁𝐚𝐧𝐠𝐥𝐚" T Sports
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Sports" T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
