@@ -1,5 +1,7 @@
 #EXTM3U
 MUSIC
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Digital Fashions
+https://go.skym3u.dev/live/71ab4/1b150d305940570e1b160a5357445d18715d534876595748071a0c4c0e1c5c1745271a15182c050e0b57434c4a4d061d1749385d0c4a355b4c0b54534e17174117165a.m3u8?t=5318&s=d0b&id=2hdh.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hindi Songs
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MTV India
