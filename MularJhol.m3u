@@ -65,11 +65,11 @@ http://198.195.239.50:8095/COLORS.CINEPLEX.HD/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex UK
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Bollywood
-https://go.skym3u.dev/live/71ab4/1b150d30594057534355414c0d121f4d2a1a030b2f020b1a5e44470a01001e491f754351562c0a191d101b141251411e405978501212390e5c0d114e4652.m3u8?s=4185&id=zxb7.m3u
+http://live.balajibroadband.com:3500/live/1763.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
 http://live.balajibroadband.com:3500/live/1450.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
-https://go.skym3u.dev/live/71ab4/1b150d30594057534355414c0d121f4d2a1a030b2f020b1a5e44470a01001e491f754351562c0a191d101b171152411e405978501212390e5c0d114e4652.m3u8?s=58bd&id=fyn7.m3u
+http://live.balajibroadband.com:3500/live/1450.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Infinity HD
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=f6e&id=kceh.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Tamil HD
@@ -151,11 +151,12 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Jolsha Movies
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Jolsha Movies
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold HD
 http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8#fb:M3U_World_4K
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold 2
-http://202.70.146.135:8000/play/a02d/index.m3u8
+https://go.skym3u.dev/live/71ab4/1b150d305940570e1a100a535a425d1a705d504f72595d490d180c540e0e0a5c4d70421756290d0b1d47044e171757500047391e520c6e070a0e.m3u8?s=350c&id=9csf.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold 2 HD
 http://202.70.146.135:8000/play/a04q/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold Romance
@@ -267,6 +268,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", NH Bolly Flix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", NH Bolly Raga
+https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", NH Bolly Flix
+https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BIG MAGIC MOVIE
@@ -488,7 +493,7 @@ http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="𝐁𝐚𝐧𝐠𝐥𝐚" SNB CINEMA BANGLA
 http://103.182.83.246/hls/snbcinema.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="𝐁𝐚𝐧𝐠𝐥𝐚" G-Series
-https://go.skym3u.dev/live/73b59/3b1f0d3d404f706d3230371e535c15262c0003151a4d06305f1f55453619102840312d23293e7c1913131734314c1a500f524a325d5e5d1827185720000067.m3u8?t=5318&s=7cc&id=66da.m3u
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Islamic" PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Islamic" Azan Tv
