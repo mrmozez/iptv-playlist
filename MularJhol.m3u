@@ -74,7 +74,6 @@ http://live.balajibroadband.com:3500/live/1450.m3u8#skym3u.dev
 http://live.balajibroadband.com:3500/live/1450.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Infinity HD
 https://go.skym3u.dev/live/71ab4/1b150d305940570e1a100a535a425d1a705d504f72595d490d180c540e0e0a5c4d70411356290d0b1d47044e171757500047391e520c6e070a0e.m3u8?s=5632&id=64yc.m3u
-
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Tamil HD
 https://go.skym3u.dev/live/71ab4/1b150d30105557104e421c540242005d301e5216704d0c14505f474210001d07022e161556725b5f4f0d1a11174d1c1e1a407a100e152f111c0c5e474a480a0b424202331e08156f13031946464a5716411e405978501212390e5c0d114e4652.m3u8?s=5e3e&id=4cxy.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MBC Bollywood Hd
@@ -85,7 +84,6 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 https://vods2.aynaott.com/hindimovies/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-
 & NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& TV HD
 http://202.70.146.135:8000/play/a06c/index.m3u8
@@ -107,8 +105,6 @@ https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca14134
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=1438228&extension=ts&play_token=errEDbefNI
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",CINEMANIA 4K
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=1438227&extension=ts&play_token=uG4NtMZSxh
-
-
 SONY NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Mei Ah Cinema
 http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8#fb:M3U_World_4K
@@ -125,7 +121,6 @@ http://live.balajibroadband.com:3500/live/483.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX2 US
 http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts
 http://lb59.1xtr.icu:25461/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts?token=ThFcUhFaQQwRBANWBgxUVgNWVFcEBQMFWgZVAFoDUldWV1cCUANaVAoQHkdBQURQV1g7WFQWCgNRV1QKDB8RR0ZWRmwLVkEMEQACVQMEBxcaFxBYXVESCFJVWgIIAQYDDAcYERJbBxQJXEcJXhkUUE5BAUNeVVxtBwcVWlpWEQhbRlhfThAMWGxWVwhTW1IXDBdVExwWWUETQFldTF9fHhdRXUcQUxdTEQhcEF5ZGhdVWhFfREZJEFlAIXcbHxFXTUdRXRFbDFgRCBARQRcaF19GO0NVR0RABgMOVksRCRAFERgRD1MbaVBdXAtXVkJcWVsXEwoWBRBPQA5cV1pHXUdsRFoGEFlYRl5eGA==#fb:M3U_World_4K
-
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX
 https://go.skym3u.dev/live/71ab4/1b150d30105557104e514f541702435a281d4f1e30000b16114446504d031a05496f000e17393c0219477550403d0e110103291d051c384d024b4a12005709161e40596e17040f.m3u8?s=5632&id=64yc.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX
@@ -138,7 +133,6 @@ http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8#fb:M3U_World_4K
 https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX
 https://prod-linear-media.toffeelive.com/cdn/live/sony_max/playlist.m3u8?edge-cache-token=Expires=1791635418~Starts=1791631818~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=wid7HmRZiC_rfBOm8AcbSb7i1dE0QgCgXuePPrc-gQwYbH_C4i1HjVATvh5so8W8KohYZpnX4oakIB4LW_KEAQ
-
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony KAL
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Cine
@@ -157,7 +151,6 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://74.91.26.218:82/live/cctv6hd.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Blockbuster HD
 http://stream.mcquack.net/364/index.m3u8
-
 STAR NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR Plus HD
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1019856.ts
@@ -169,13 +162,14 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8#skym3u.dev
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Jolsha Movies
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8#skym3u.dev
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Jolsha Movies HD
+http://103.151.60.162:2122/play/a00x/index.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold HD
 http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8#fb:M3U_World_4K
-
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold 2
 https://go.skym3u.dev/live/71ab4/1b150d305940570e1a100a535a425d1a705d504f72595d490d180c540e0e0a5c4d70421756290d0b1d47044e171757500047391e520c6e070a0e.m3u8?s=350c&id=9csf.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold 2 HD
-http://202.70.146.135:8000/play/a04q/index.m3u8
+http://103.151.60.162:2122/play/a01v/index.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold Romance
 http://66.102.126.10:8000/play/a00r/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold Select HD
@@ -211,7 +205,6 @@ https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c56405a6d7b4f5f51545a5c66031f4142210e18201c1637232a31360108165b6e725058515f55536a06.m3u8?t=5318&s=fe4&id=zkfu.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Anmol Cinema 2
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-
 ZEE NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee TV HD
 https://jmp2.uk/stvp-AT1400001YL
@@ -256,7 +249,7 @@ https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/ZYP9J5gM/B4U-Movie.png",B4U MOVIES
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/ZYP9J5gM/B4U-Movie.png",B4U MOVIES Apac
-https://go.skym3u.dev/live/71ab4/1b150d30105557104e514f541702435a281d4f1e30000b16114446504d031a05496f11550c1f0e000e564f507b030d015c452e1704016e0e5c0d07.m3u8
+https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",B4U KADAK
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MH ONE MOVIE
@@ -295,7 +288,6 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/131989
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BIG MAGIC MOVIE
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72173.ts
-
 Movies English
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Lotus MacaU
 http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8#fb:M3U_World_4K
@@ -381,7 +373,6 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Paramount Movie Network
 http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
-
 Documentary
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" France 24 News
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
@@ -483,7 +474,6 @@ https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", group-title="Documentary" AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-
 OTHERS
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png", Pitaara
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
@@ -491,7 +481,6 @@ https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FTV HD
 http://27.116.22.53:5001/live/1598.m3u8#skym3u.dev
-
 BANGLA
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="𝐁𝐚𝐧𝐠𝐥𝐚" Sangeet Bangla
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
