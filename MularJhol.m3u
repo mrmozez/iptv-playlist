@@ -52,7 +52,6 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8#skym3u.dev
 COLORS NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla HD
 https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
-http://mag.max-cdn.com:80/play/live.php?mac=00:1B:79:51:0C:56&stream=908654&extension=ts&play_token=1fUBa9a3vc
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla Cinema
 https://go.skym3u.dev/live/71ab4/1b150d305940570e1a100a535e475d1d715d524e7a5b5f400e05604b0e0001000122120f1e2c02421b5644464903401a1d48250b4f147316575b4c415a49511a5d174936.m3u8?s=5e3e&id=4cxy.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors HD
@@ -74,9 +73,10 @@ http://live.balajibroadband.com:3500/live/1450.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
 http://live.balajibroadband.com:3500/live/1450.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Infinity HD
-https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=f6e&id=kceh.m3u
+https://go.skym3u.dev/live/71ab4/1b150d305940570e1a100a535a425d1a705d504f72595d490d180c540e0e0a5c4d70411356290d0b1d47044e171757500047391e520c6e070a0e.m3u8?s=5632&id=64yc.m3u
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Tamil HD
-https://go.skym3u.dev/live/73b59/3b1f0d3d404f706d203e6b5b0c43072e320c5f0e5e4d06335d455650210417391d1b3a366b6d6b5d5640446d714e1f0c070f5f3c5d5c5d44201f18205a193726756e7d1e0c1b1870320d0d18020a162b1c5d01436b.m3u8?t=5318&s=2b9&id=sa36.m3u
+https://go.skym3u.dev/live/71ab4/1b150d30105557104e421c540242005d301e5216704d0c14505f474210001d07022e161556725b5f4f0d1a11174d1c1e1a407a100e152f111c0c5e474a480a0b424202331e08156f13031946464a5716411e405978501212390e5c0d114e4652.m3u8?s=5e3e&id=4cxy.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MBC Bollywood Hd
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hindi Movie Classic 24
@@ -126,6 +126,8 @@ http://live.balajibroadband.com:3500/live/483.m3u8
 http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts
 http://lb59.1xtr.icu:25461/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts?token=ThFcUhFaQQwRBANWBgxUVgNWVFcEBQMFWgZVAFoDUldWV1cCUANaVAoQHkdBQURQV1g7WFQWCgNRV1QKDB8RR0ZWRmwLVkEMEQACVQMEBxcaFxBYXVESCFJVWgIIAQYDDAcYERJbBxQJXEcJXhkUUE5BAUNeVVxtBwcVWlpWEQhbRlhfThAMWGxWVwhTW1IXDBdVExwWWUETQFldTF9fHhdRXUcQUxdTEQhcEF5ZGhdVWhFfREZJEFlAIXcbHxFXTUdRXRFbDFgRCBARQRcaF19GO0NVR0RABgMOVksRCRAFERgRD1MbaVBdXAtXVkJcWVsXEwoWBRBPQA5cV1pHXUdsRFoGEFlYRl5eGA==#fb:M3U_World_4K
 
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX
+https://go.skym3u.dev/live/71ab4/1b150d30105557104e514f541702435a281d4f1e30000b16114446504d031a05496f000e17393c0219477550403d0e110103291d051c384d024b4a12005709161e40596e17040f.m3u8?s=5632&id=64yc.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX
@@ -270,7 +272,7 @@ https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",GOLDMINES MOVIES
 https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",GOLDMINES 2
-https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c56405a6d7b4f5f51545a5c66031f4142210e18201c1637232a31360108165b6e725258565c5b5c6b.m3u8?t=5318&s=fe4&id=zkfu.m3u
+https://go.skym3u.dev/live/71ab4/1b150d3010555710475649165f405d58211d061634154111510567570e1646091f08342e35042e26367a79110b161d121047335e17482152401550444c0a0f5c064b0f331818147316411c5a5c.m3u8?s=5e3e&id=4cxy.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",GOLDMINES Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",GOLDMINES Action
