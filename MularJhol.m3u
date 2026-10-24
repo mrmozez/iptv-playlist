@@ -51,15 +51,17 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8#skym3u.dev
 
 COLORS NETWORK
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla HD
-https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
+http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Bangla Cinema
-https://go.skym3u.dev/live/71ab4/1b150d305940570e1a100a535e475d1d715d524e7a5b5f400e05604b0e0001000122120f1e2c02421b5644464903401a1d48250b4f147316575b4c415a49511a5d174936.m3u8?s=5e3e&id=4cxy.m3u
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors HD
-https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c54475a6e7a4f5d5958595d6f02001d463f0a006252456b2c6b363d09040a5a32711454.m3u8?t=5318&s=f6e&id=kceh.m3u
+http://dvltv.cc/live/iptvmax017/iptvmax0178/41284.ts#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Super
 https://go.skym3u.dev/live/73b59/3b1f0d3d404f706d206e210e59441a28350255070f044b3c5e5f475235191623475b31273070615b5145466c6d120108025906305e5f4045201e09284144713129363f42111e15262e081f15400e562a0a0f5a523d1f0a7040016273736c6655584a42677b1f09191e5e546701050a0f6b5d41754d143c2e79752d050c13176224540a045c57526d06565706665f417c5646677675396a080347153d7a040a050b06553e0154560e605d4d78521066262739675856424739775359030f01523d.m3u8?t=5318&s=2b9&id=sa36.m3u
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex Superhits
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a702e2d2936430313183e28080e130102013d535e56183004147700406f726b333a1b045d456b7751420c5d165d.m3u8?t=5318&s=464&id=ni7u.m3u
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
+http://dvltv.cc/live/iptvmax017/iptvmax0178/515.ts#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
 http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h0afj5-wDFVIeR4D2HICXwM
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Colors Cineplex HD
@@ -88,9 +90,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& TV HD
 http://202.70.146.135:8000/play/a06c/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& Pictures HD
-https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1792675821~Starts=1792672221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=pWi78qWBPJU_YCmArDUvHDOzb2YU82yyLGC4ZPmTpy6lwYjHr0IgyCv3sLyATxQW__MSLj5Mw9Z1FB1I-8AYDg
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& Pictures HD
-http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96672
+http://103.135.253.32:8080/PICTURE-HD/index.m3u8#skym3u.dev
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",& Pictures
+https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://go4.pw/India/&explorer.png",& Xplor HD
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/809016.ts
 #EXTINF:-1  tvg-logo="https://go4.pw/India/&explorer.png",& Xplor HD
@@ -121,7 +123,7 @@ http://live.balajibroadband.com:3500/live/483.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX2 US
 http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX
-https://prod-linear-media.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8?edge-cache-token=Expires=1792675821~Starts=1792672221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=pWi78qWBPJU_YCmArDUvHDOzb2YU82yyLGC4ZPmTpy6lwYjHr0IgyCv3sLyATxQW__MSLj5Mw9Z1FB1I-8AYDg
+http://103.135.253.32:8080/Sony-Max-HD/index.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX
 https://prod-linear-media.toffeelive.com/cdn/live/sony_max/playlist.m3u8?edge-cache-token=Expires=1792675821~Starts=1792672221~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=pWi78qWBPJU_YCmArDUvHDOzb2YU82yyLGC4ZPmTpy6lwYjHr0IgyCv3sLyATxQW__MSLj5Mw9Z1FB1I-8AYDg
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX
@@ -165,8 +167,10 @@ http://103.151.60.162:2122/play/a00x/index.m3u8#skym3u.dev
 http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold
 http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h88Vwd-RYjQbJ-cqkeqI9-8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold 2
-https://go.skym3u.dev/live/71ab4/1b150d305940570e1a100a535a425d1a705d504f72595d490d180c540e0e0a5c4d70421756290d0b1d47044e171757500047391e520c6e070a0e.m3u8?s=350c&id=9csf.m3u
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold
+http://dvltv.cc/live/iptvmax017/iptvmax0178/495.ts#skym3u.dev
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold 2 HD
+http://103.151.60.162:2122/play/a01v/index.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold 2
 http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hznI48wytPPowStmefC_DCQ
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold 2 HD
@@ -184,7 +188,7 @@ http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR MOVIES HD
 https://go.skym3u.top/pdu7.m3u?channel=aHR0cDovLzY2LjEwMi4xMjYuMTA6ODAwMC9wbGF5L2EwMjEvaW5kZXgubTN1OA
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR MOVIES HD
-http://202.70.146.135:8000/play/a06r/index.m3u8
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR Movies Select HD
 http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR Movies Thrills HD
@@ -222,7 +226,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8?edge
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE CAFE HD
 https://tv5.genatuz070.workers.dev/cdn/live/zee_cafe_hd/playlist.m3u8?hdnea=exp=1789311209~acl=/*~id=56933095729337280455060607280919~hmac=f684b60160daa4d4723d4415788f702e13a7b1b85cfe4f1682e49c076dd214d6
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Action
-http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96659
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/967.ts#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Action
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Classic
@@ -239,12 +243,14 @@ http://107.167.16.138/zeetalkies/index.m3u8?token=test
 http://27.116.22.53:5001/live/413.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Biskope
 https://go.skym3u.dev/live/73b59/3b1f0d3d095a7073746c7d5c56405a6d7b4f5f51545a5c66031f4142210e18201c1637232a31360108165b6e72555a555f55516f03.m3u8?t=5318&s=fe4&id=zkfu.m3u
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinema
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinema Apac
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinema HD
-https://go.skym3u.dev/live/71ab4/1b150d30105557104e514f541702435a281d4f1e30000b16114446504d031a05496f09041c1f0006165a47427b0a0b2c124e325c0817240617565219561c.m3u8
+http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8#skym3u.dev
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinema HD
+http://dvltv.cc/live/iptvmax017/iptvmax0178/161673.ts#skym3u.dev
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/ZYP9J5gM/B4U-Movie.png",B4U MOVIES
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/ZYP9J5gM/B4U-Movie.png",B4U MOVIES
@@ -290,13 +296,14 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/131989
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BIG MAGIC MOVIE
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72173.ts
- Movies English
+Movies English
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Lotus MacaU
 http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Kinowood HD
 http://stream.mcquack.net/446/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MN PLUS HD
-http://198.195.239.50:8095/MN.PLUS.HD/index.m3u8#fb:M3U_World_4K
+http://103.135.253.32:8080/MN-PLUS/index.m3u8#skym3u.dev
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",HBO
 http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",HBO FAMILY HD
